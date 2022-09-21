@@ -1,3 +1,7 @@
+# Çeviriler
+- [Türkçe](README.md)
+- [English](README.en.md)
+
 # Burada Neler Göreceksiniz?
 
 Flutter ile mobil uygulama geliştirmeye başlarken yaptığım çalışmaları ve öğrenme aşamalarımda yazdığım kodları burada topladım. Burada flutter'da ilk sayfayı oluşturma,sütün ve satırlar,gridview yapısı,shared preferences kullanımı,uygulama içi dosya oluşturma,scaffold yapısı ile sayfa oluşturma,internetteki veri tabanından veri çekme veri ekleme,tap bar oluşturma,mysql yapısı ile yerel veri tabanı oluşturma ve stateful widget'ların özelliklerinin neler olduğunu bulabileceksiniz
