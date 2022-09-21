@@ -1,0 +1,41 @@
+[
+    {
+        "adı": "Adahan",
+        "soyadı": "Ünal",
+        "okulno": 353,
+        "cinsiyeti": "erkek",
+        "başarılı": true,
+        "veli": {
+            "adı": "Mehmet",
+            "soyadı": "Ünal",
+            "yakınlık": "Babası",
+            "telno": "05433230303"
+        }
+    },
+    {
+        "adı": "Ömer",
+        "soyadı": "Ünal",
+        "okulno": 827,
+        "cinsiyeti": "erkek",
+        "başarılı": false,
+        "veli": {
+            "adı": "Mehmet",
+            "soyadı": "Ünal",
+            "yakınlık": "Babası",
+            "telno": "05433230303"
+        }
+    },
+    {
+        "adı": "Fatma",
+        "soyadı": "Yılmaz",
+        "okulno": 225,
+        "cinsiyeti": "kız",
+        "başarılı": true,
+        "veli": {
+            "adı": "Ahmet",
+            "soyadı": "Yılmaz",
+            "yakınlık": "Babası",
+            "telno": "05439900303"
+        }
+    }
+]
